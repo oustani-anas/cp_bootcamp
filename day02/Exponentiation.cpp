@@ -9,7 +9,7 @@
 #define endl '\n'
 #define ll long long
 
-ll mod = 1e9 + 7;
+const ll mod = 1e9 + 7;
 
 ll exp(ll a, ll b)
 {
